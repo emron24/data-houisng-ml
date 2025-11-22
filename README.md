@@ -49,8 +49,8 @@ Delivered actionable insights for **real estate investment** and **lending risk 
 ##  Visuals  
 Include residual plots, feature importance charts, and performance metrics for recruiter appeal:  
 ```markdown
-![Residual Plot](images/residual_plot.png)
-![Feature Importance](images/feature_importance.png)
+[Residual Plot](images/residual_plot.png)
+[Feature Importance](images/feature_importance.png)
 ```
 
 ---
