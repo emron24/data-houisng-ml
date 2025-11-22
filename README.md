@@ -57,9 +57,3 @@ Include residual plots, feature importance charts, and performance metrics for r
 
 ##  Keywords  
 *Machine Learning*, *Preisprognose*, *Feature Engineering*, *Datenanalyse*, *XGBoost*, *Immobilienbewertung*, *Business Intelligence*
-
----
-
-👉 This version is recruiter-ready: clear, structured, and impact-driven.  
-
-Would you like me to **apply the same polish to your Healthcare Analytics README** next, so all your repos have a consistent, professional style?
